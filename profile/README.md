@@ -2,7 +2,7 @@
 
 
 
-[FiveMSafe](ttps://fivemsafe.cisco8114.com/)
+[FiveMSafe](https://fivemsafe.cisco8114.com/)
 
 [Report](https://fivemsafe.cisco8114.com/report/)
 
