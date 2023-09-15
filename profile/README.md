@@ -11,7 +11,6 @@
 [Email](mailto:support@cisco8114.com)
 
 ### About Us:
-
 Are you looking to keep a cleaner FiveM community? One without any toxic users? Then FiveMSafe is for you! just simply run the command /settings inside of your server, then /updatebans to remove any toxic trolls that may already be banned in our database! About FiveMSafe Prefix: / FiveMSafe is specifically used to keep a clean FiveM community from users, leakers, toxicity, cheaters, racists, and much more! To report someone, do /report inside of ANY channel the bot can see! Or go to this link provided! Why should I use FiveMSafe?? You should use FiveMSafe because we're unlike any other ban database bot; we're here to keep the FiveM community safe!
 
 <!--
